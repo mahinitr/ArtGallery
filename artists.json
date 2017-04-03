@@ -1,0 +1,25 @@
+{
+    "artists" : [
+        {"Title":"Liberty Leading the People", "Artist":"Eugene Delacroix", "Year":"1830", "Genre":"Romanticism", "Image":""},
+        {"Title":"The Raft of the Medusa", "Artist":"Theodore Gericault", "Year":"1818", "Genre":"Romanticism", "Image":""},
+        {"Title":"Oath of the Horatii", "Artist":"Jacques-Louis David", "Year":"1784", "Genre":"Neoclassicism", "Image":""},
+        {"Title":"The Death of Marat", "Artist":"Jacques-Louis David", "Year":"1793", "Genre":"Neoclassicism", "Image":""},
+        {"Title":"Bonjour Monsieur Courbet", "Artist":"Gustave Courbet", "Year":"1854", "Genre":"Realism", "Image":""},
+        {"Title":"The Arnolfini Portrait", "Artist":"Jan van Eyck", "Year":"1434", "Genre":"Realism", "Image":""},
+        {"Title":"The Lictors Bring to Brutus the Bodies of His Sons", "Artist":"Jacques-Louis David", "Year":"1789", "Genre":"Neoclassicism", "Image":""},
+        {"Title":"Psyche Revived by Cupid's Kiss", "Artist":"Antonio Canova", "Year":"1787", "Genre":"Neoclassicism", "Image":""},
+        {"Title":"Grande Odalisque", "Artist":"Jean-Auguste-Dominique Ingres", "Year":"1814", "Genre":"Neoclassicism", "Image":""},
+        {"Title":"Madonna with the Long Neck", "Artist":"Parmigianino", "Year":"1534", "Genre":"Mannerism", "Image":""},
+        {"Title":"The Burial of the Count of Orgaz", "Artist":"El Greco", "Year":"1586", "Genre":"Mannerism", "Image":""},
+        {"Title":"Last Supper", "Artist":"Tintoretto", "Year":"1592", "Genre":"Mannerism", "Image":""},
+        {"Title":"The Deposition from the Cross", "Artist":"Pontormo", "Year":"1528", "Genre":"Mannerism", "Image":""},
+        {"Title":"View of Toledo", "Artist":"El Greco", "Year":"1596", "Genre":"Mannerism", "Image":""},
+        {"Title":"The Stone Breakers", "Artist":"Gustave Courbet", "Year":"1849", "Genre":"Realism", "Image":""},
+        {"Title":"The Gleaners", "Artist":" Jean-Francois Millet", "Year":"1857", "Genre":"Realism", "Image":""},
+        {"Title":"A Burial At Ornans", "Artist":"Gustave Courbet", "Year":"1849", "Genre":"Realism", "Image":""},
+        {"Title":"The Death of Sardanapalus", "Artist":"Eugene Delacroix", "Year":"1827", "Genre":"Romanticism", "Image":""},
+        {"Title":"Wanderer above the Sea of Fog", "Artist":"Caspar David Friedrich", "Year":"1818", "Genre":"Romanticism", "Image":""},
+        {"Title":"The Third of May 1808", "Artist":"Francisco Goya", "Year":"1814", "Genre":"Romanticism", "Image":""}
+        
+    ]
+}

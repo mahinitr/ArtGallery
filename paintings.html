@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+       <meta charset="utf-8">
+       <title>COMP5347 Assignment One</title>
+       <link rel="stylesheet" href="paintings.css" />
+       
+       <script type="text/javascript" src="paintings.js"></script>
+
+  </head>
+
+  <body>
+      
+        <div id="searchBox">
+            <input type="text" id="txtSearch" name="txtSearch" placeholder="Search titles">
+            <input type="button" name="btnSearch" value="search" onclick="searchTitle()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <select id="genreBox">
+                
+            </select>
+            <input type="button" name="btnFilter" value="Filter" onclick="filterGenre()">
+            <p id="message"></p>
+        </div>
+        
+        <div id="artistBox">  
+            <script type="text/javascript">
+                addArtistsTable();
+            </script>
+        </div>   
+      
+  </body>
+</html>
